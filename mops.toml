@@ -1,0 +1,13 @@
+[package]
+name = "bench"
+version = "1.0.0"
+description = "Motoko benchmarking with Mops"
+repository = "https://github.com/ZenVoich/bench"
+keywords = [ "bench", "benchmark", "performance", "profiling", "mops" ]
+license = "MIT"
+
+[dependencies]
+base = "0.10.1"
+
+[dev-dependencies]
+vector = "0.2.0"
